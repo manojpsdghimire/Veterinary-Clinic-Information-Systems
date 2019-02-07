@@ -1,0 +1,137 @@
+Z:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\bin\Debug\O-Y-O 2.exe.config
+Z:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O_Y_O_2.Resources.resources
+Z:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O-Y-O 2.vbproj.GenerateResource.Cache
+Z:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O-Y-O 2.xml
+Z:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\bin\Debug\PatientInformation.mdf
+Z:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\bin\Debug\PatientInformation_log.ldf
+Z:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\bin\Debug\O-Y-O 2.exe
+Z:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\bin\Debug\O-Y-O 2.pdb
+Z:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\bin\Debug\O-Y-O 2.xml
+Z:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O-Y-O 2.exe
+Z:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O-Y-O 2.pdb
+Y:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\bin\Debug\O-Y-O 2.exe.config
+Y:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O-Y-O 2.exe
+Y:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O-Y-O 2.xml
+Y:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O-Y-O 2.pdb
+Y:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\bin\Debug\PatientInformation.mdf
+Y:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\bin\Debug\PatientInformation_log.ldf
+Y:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\bin\Debug\O-Y-O 2.exe
+Y:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\bin\Debug\O-Y-O 2.pdb
+Y:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\bin\Debug\O-Y-O 2.xml
+Y:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O-Y-O 2.vbprojResolveAssemblyReference.cache
+Y:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O_Y_O_2.PatientRegistration.resources
+Y:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O_Y_O_2.Resources.resources
+Y:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O-Y-O 2.vbproj.GenerateResource.Cache
+Z:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O_Y_O_2.MainForm.resources
+Z:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O_Y_O_2.AppointmentForm.resources
+Z:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\bin\Debug\MySql.Data.dll
+Z:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O_Y_O_2.Patient_Detail.resources
+Y:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O_Y_O_2.AppointmentForm.resources
+Y:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O_Y_O_2.Billing.resources
+Y:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O_Y_O_2.IdInput.resources
+Y:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O_Y_O_2.MainForm.resources
+Y:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O_Y_O_2.Patient_Detail.resources
+Z:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O-Y-O 2.vbprojResolveAssemblyReference.cache
+Z:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O_Y_O_2.BillingForm.resources
+Z:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O_Y_O_2.About.resources
+Z:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O_Y_O_2.PatientRegistrationForm.resources
+Z:\CSC 205\ongoing\O-Y-O 2\O-Y-O 2\obj\Debug\O_Y_O_2.BillingSearch.resources
+Z:\CSC 205\ongoing\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\O-Y-O 2.exe.config
+Z:\CSC 205\ongoing\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.exe
+Z:\CSC 205\ongoing\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.xml
+Z:\CSC 205\ongoing\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.pdb
+Z:\CSC 205\ongoing\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\PatientInformation.mdf
+Z:\CSC 205\ongoing\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\PatientInformation_log.ldf
+Z:\CSC 205\ongoing\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\O-Y-O 2.exe
+Z:\CSC 205\ongoing\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\O-Y-O 2.pdb
+Z:\CSC 205\ongoing\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\O-Y-O 2.xml
+Z:\CSC 205\ongoing\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\MySql.Data.dll
+Z:\CSC 205\ongoing\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.vbprojResolveAssemblyReference.cache
+Z:\CSC 205\ongoing\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.About.resources
+Z:\CSC 205\ongoing\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.AppointmentForm.resources
+Z:\CSC 205\ongoing\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.BillingForm.resources
+Z:\CSC 205\ongoing\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.BillingSearch.resources
+Z:\CSC 205\ongoing\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.MainForm.resources
+Z:\CSC 205\ongoing\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.Patient_Detail.resources
+Z:\CSC 205\ongoing\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.Resources.resources
+Z:\CSC 205\ongoing\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.PatientRegistrationForm.resources
+Z:\CSC 205\ongoing\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.vbproj.GenerateResource.Cache
+Z:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\O-Y-O 2.exe.config
+Z:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.exe
+Z:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.xml
+Z:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.pdb
+Z:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\PatientInformation.mdf
+Z:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\PatientInformation_log.ldf
+Z:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\O-Y-O 2.exe
+Z:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\O-Y-O 2.pdb
+Z:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\O-Y-O 2.xml
+Z:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.vbprojResolveAssemblyReference.cache
+Z:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.About.resources
+Z:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.AppointmentForm.resources
+Z:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.BillingForm.resources
+Z:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.BillingSearch.resources
+Z:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.MainForm.resources
+Z:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.Resources.resources
+Z:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.Patient_Detail.resources
+Z:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.PatientRegistrationForm.resources
+Z:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.vbproj.GenerateResource.Cache
+Y:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\O-Y-O 2.exe.config
+Y:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.exe
+Y:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.xml
+Y:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.pdb
+Y:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\PatientInformation.mdf
+Y:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\PatientInformation_log.ldf
+Y:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\O-Y-O 2.exe
+Y:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\O-Y-O 2.pdb
+Y:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\O-Y-O 2.xml
+Y:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.vbprojResolveAssemblyReference.cache
+Y:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.About.resources
+Y:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.AppointmentForm.resources
+Y:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.BillingForm.resources
+Y:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.BillingSearch.resources
+Y:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.MainForm.resources
+Y:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.Resources.resources
+Y:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.Patient_Detail.resources
+Y:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.PatientRegistrationForm.resources
+Y:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.vbproj.GenerateResource.Cache
+E:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\PatientInformation.mdf
+E:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\PatientInformation_log.ldf
+E:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\O-Y-O 2.exe.config
+E:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\O-Y-O 2.exe
+E:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\O-Y-O 2.pdb
+E:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\O-Y-O 2.xml
+E:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.vbprojResolveAssemblyReference.cache
+E:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.About.resources
+E:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.AppointmentForm.resources
+E:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.BillingForm.resources
+E:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.BillingSearch.resources
+E:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.MainForm.resources
+E:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.Resources.resources
+E:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.Patient_Detail.resources
+E:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.PatientRegistrationForm.resources
+E:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.vbproj.GenerateResource.Cache
+E:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.vbproj.CoreCompileInputs.cache
+E:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.exe
+E:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.xml
+E:\CSC 205\completed\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.pdb
+E:\CSC 205\CSC 205\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\PatientInformation.mdf
+E:\CSC 205\CSC 205\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\PatientInformation_log.ldf
+E:\CSC 205\CSC 205\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\O-Y-O 2.exe.config
+E:\CSC 205\CSC 205\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\O-Y-O 2.exe
+E:\CSC 205\CSC 205\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\O-Y-O 2.pdb
+E:\CSC 205\CSC 205\O-Y-O Choice A- Part 2\O-Y-O 2\bin\Debug\O-Y-O 2.xml
+E:\CSC 205\CSC 205\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.About.resources
+E:\CSC 205\CSC 205\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.AppointmentForm.resources
+E:\CSC 205\CSC 205\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.BillingForm.resources
+E:\CSC 205\CSC 205\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.BillingSearch.resources
+E:\CSC 205\CSC 205\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.MainForm.resources
+E:\CSC 205\CSC 205\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.Resources.resources
+E:\CSC 205\CSC 205\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.Patient_Detail.resources
+E:\CSC 205\CSC 205\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O_Y_O_2.PatientRegistrationForm.resources
+E:\CSC 205\CSC 205\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.vbproj.GenerateResource.Cache
+E:\CSC 205\CSC 205\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.vbproj.CoreCompileInputs.cache
+E:\CSC 205\CSC 205\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.exe
+E:\CSC 205\CSC 205\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.xml
+E:\CSC 205\CSC 205\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.pdb
+E:\CSC 205\CSC 205\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.vbproj.CopyComplete
+E:\CSC 205\CSC 205\O-Y-O Choice A- Part 2\O-Y-O 2\obj\Debug\O-Y-O 2.vbprojAssemblyReference.cache
